@@ -1,0 +1,17 @@
+contrast_image-0.1.6.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
+contrast_image-0.1.6.dist-info/LICENSE,sha256=fmyH9d_qkrPU5wx-1NtOnw2SzmbWrnbDAGJdbCfug4E,1072
+contrast_image-0.1.6.dist-info/METADATA,sha256=kSUIqBwnLtH_xWsMaeyf25h9-Wl-oOHMsE6bBEZtxqY,5911
+contrast_image-0.1.6.dist-info/RECORD,,
+contrast_image-0.1.6.dist-info/REQUESTED,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+contrast_image-0.1.6.dist-info/WHEEL,sha256=OqRkF0eY5GHssMorFjlbTIq072vpHpF60fIQA6lS9xA,92
+contrast_image-0.1.6.dist-info/top_level.txt,sha256=OdPHdZpspkK9E-Z_oCLJAjDYg9OBKhGZm_viuVv7MNg,15
+contrast_image/__init__.py,sha256=EYcgmuO7Fawg6pg1lPd1oG7Hp5CfNHCpwfc7Lu5MbvY,55
+contrast_image/__pycache__/__init__.cpython-39.pyc,,
+contrast_image/__pycache__/contrast_image.cpython-39.pyc,,
+contrast_image/__pycache__/histogram.cpython-39.pyc,,
+contrast_image/__pycache__/quantitation.cpython-39.pyc,,
+contrast_image/__pycache__/utils.cpython-39.pyc,,
+contrast_image/contrast_image.py,sha256=owGm3OfkMu9yB63wSmf4NCRPWxXEkU4Su38ggohlP6w,11269
+contrast_image/histogram.py,sha256=VdZXGoxYTyibjOuIMsPdx5ynjR4oGXIpgvV17C02NOk,4206
+contrast_image/quantitation.py,sha256=-u2oBAFL_DzWxfGNv6TTMI7oZV0cD-O2OCk6JLY2kRI,847
+contrast_image/utils.py,sha256=Wr_RagNQ6CUa1jQ31-75bAACrotUrmjTFOY4SCjJ63k,3275

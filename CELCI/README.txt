@@ -1,0 +1,1 @@
+Run CELCI.py while gari.py is opened otherwise code will not execute on the proposed technique.
